@@ -1,1 +1,1 @@
-http://192.168.139.96:3000
+https://papaya-phoenix-ed79ac.netlify.app/
